@@ -1,0 +1,17 @@
+io/confluent/developer/avro/Movie.java
+ io.confluent.developer.avro.Movie
+ io.confluent.developer.avro.Movie$1
+ io.confluent.developer.avro.Movie$Builder
+io/confluent/developer/avro/RatedMovie.java
+ io.confluent.developer.avro.RatedMovie
+ io.confluent.developer.avro.RatedMovie$1
+ io.confluent.developer.avro.RatedMovie$Builder
+io/confluent/developer/avro/Rating.java
+ io.confluent.developer.avro.Rating
+ io.confluent.developer.avro.Rating$1
+ io.confluent.developer.avro.Rating$Builder
+io/confluent/developer/MovieRatingJoiner.java
+ io.confluent.developer.MovieRatingJoiner
+io/confluent/developer/JoinStreamToTable.java
+ io.confluent.developer.JoinStreamToTable
+ io.confluent.developer.JoinStreamToTable$1
